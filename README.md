@@ -10,7 +10,7 @@ Computer Science Student | Aspiring Software Engineer | Open Source Enthusiast
 
 🎓 Computer Science undergraduate from India.
 
-💡 Passionate about  Operating Systems, Software Development, Data Structures & Algorithms, and Open Source.
+💡 Passionate about  Operating Systems, Software Development, Data Structures & Algorithms, and Open Source.<br>
 🎮 Love to play video games
 📽️ Into movies and anime
 🏏 Love to play and watch cricket
